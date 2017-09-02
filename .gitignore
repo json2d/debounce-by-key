@@ -1,3 +1,6 @@
+# Coverage Report
+.nyc_output
+
 # Logs
 logs
 *.log

@@ -1,0 +1,28 @@
+{
+  "name": "debounce-by-key",
+  "version": "0.1.1",
+  "description": "useful for employing a group of functions within a single debounce scope and/or employing a single function across a group of debounce scopes",
+  "main": "lib/debounce-by-key.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "tap test/*.js --coverage"
+  },
+  "keywords": [
+    "debounce",
+    "key",
+    "string",
+    "id",
+    "scope"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitstrider/debounce-by-key.git"
+  },
+  "author": "Jason Yung",
+  "license": "ISC",
+  "devDependencies": {
+    "tap": "^10.7.2"
+  }
+}
